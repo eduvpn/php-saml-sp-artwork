@@ -1,6 +1,7 @@
 header {
     background-image: url("../../img/eduVPN/eduvpn_banner_small.png");
     background-repeat: no-repeat;
+    background-position-x: 0.5em;
     height: 65px;
 }
 
