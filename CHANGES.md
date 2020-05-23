@@ -1,5 +1,8 @@
 # Changelog
 
+## 1.0.2 (2020-05-23)
+- update for JS search
+
 ## 1.0.1 (2020-02-24)
 - update for new language switcher
 
