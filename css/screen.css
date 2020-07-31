@@ -1,18 +1,18 @@
 header {
-    background-image: url("../../img/eduVPN/eduvpn_banner_small.png");
-    background-repeat: no-repeat;
-    background-position-x: 0.5em;
-    height: 65px;
+  background-image: url("../../img/eduVPN/logo.png");
+  background-repeat: no-repeat;
+  background-size: 169px 50px;
+  min-height: calc(50px + 1em);
 }
 
 header button {
-    color: #777;
+  color: #777;
 }
 
 a, a:hover {
-    color: #df7f0c;
+  color: #e24301;
 }
 
 button {
-    color: #df7f0c;
+  color: #e24301;
 }

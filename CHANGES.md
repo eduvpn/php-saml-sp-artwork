@@ -1,5 +1,8 @@
 # Changelog
 
+## 1.0.3 (2020-07-31)
+- update CSS style and eduVPN logo
+
 ## 1.0.2 (2020-05-23)
 - update for JS search
 
