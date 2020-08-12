@@ -1,6 +1,6 @@
 # Changelog
 
-## 1.0.4 (...)
+## 1.0.4 (2020-08-12)
 - make use of CSS/JS cache busting
 
 ## 1.0.3 (2020-07-31)
