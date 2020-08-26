@@ -1,5 +1,8 @@
 # Changelog
 
+## 1.0.5 (2020-08-26)
+- remove link to bootstrap-reboot
+
 ## 1.0.4 (2020-08-12)
 - make use of CSS/JS cache busting
 
